@@ -75,7 +75,7 @@ Client-server chat applications are foundational to real-time communication over
 
 ## Client:
 ```
-mport socket
+import socket
 
 client_socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
